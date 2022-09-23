@@ -1,0 +1,37 @@
+{
+    "mesh_sizes": {
+        "mesh_size_x": 300,
+        "mesh_size_y": 1
+    },
+    
+    "surf_parameters": {
+        "Lx": 300,
+        "Ly": 100,
+        "wx": 10,
+        "wy": 0,
+        "d": 10,
+        "N": 5
+    },
+
+    "mask_parameters": {
+        "T_mask": 10,
+        "L_mask": 10,
+        "G_mask": 10
+    },
+
+    "trench_parameters": {
+        "T_mask": 10,
+        "L_mask": 10,
+        "G_mask": 40
+    },
+    
+    "simulation_parameters": {
+        "d_list": [1, 5, 10, 15, 20, 30, 40, 50],
+        "T_list": [1, 2, 5, 10, 20, 50, 100],
+        "L_list": [1, 5, 10, 15, 20, 30, 40, 50],
+        "G_list": [1, 2, 5, 10, 20, 50, 100]
+    },
+
+    "order_parameter_type": "hr"
+    
+}
