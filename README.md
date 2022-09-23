@@ -1,6 +1,8 @@
 # FENICS diffusion solver
 
-Project to solve the modified diffusion equation representing the growth of semiconducting nanowires using the FENICS library for the internship in the Department of Applied Physics at the University of Eindhoven by Juan José Rodríguez.
+**Juan José Rodríguez Aldavero**
+
+Project to solve the modified diffusion equation representing the growth of semiconducting nanowires using the FENICS library for the internship in the Quantum Materials group led by Prof. Erik Bakkers, Department of Applied Physics at the University of Eindhoven.
 
 Requires the installation of the FENICS/DOLFIN library, as well as numpy and json. The easiest way is by means of an Anaconda environment.
 
