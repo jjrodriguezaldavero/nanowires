@@ -4,7 +4,7 @@
 
 Project to solve the modified diffusion equation representing the growth of semiconducting nanowires using the FENICS library for the internship in the Quantum Materials group led by Prof. Erik Bakkers, Department of Applied Physics at the University of Eindhoven.
 
-This project solves the difussion equation with custom sources and sinks numerically, and argues that the equation models the growth of semiconducting nanowires. These nanowires form the basis of many groundbreaking quantum technologies such as topological quantum computers, and therefore insight into their growth regimes is of value.
+This project solves the difussion equation with custom sources and sinks numerically, and argues that the equation models the growth of semiconducting nanowires. These nanowires form the basis of many groundbreaking quantum technologies such as topological quantum computers, and therefore insight into their growth regimes is of value. To know more, check out the Presentation.pdf and Report.pdf files.
 
 **Installation**
 
